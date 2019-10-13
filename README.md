@@ -1,14 +1,17 @@
 ![InvoicePlane](http://invoiceplane.com/content/logo/PNG/logo_300x150.png)
 #### _Version 1.4.3_
 
-InvoicePlane is a self-hosted open source application for managing your invoices, clients and payments.    
-For more information visit __[InvoicePlane.com](https://invoiceplane.com)__ or take a look at the __[demo](https://demo.invoiceplane.com)__
+InvoicePlane is a  self-hosted open source application for  managing your invoices, clients and payments.    
+For more information visit __[InvoicePlane.com](https://invoiceplane.com)__ or  take a look at the __[demo](https://demo.invoiceplane.com)__
 
 ### Quick Installation
 
 1. Download the [latest version](https://invoiceplane.com/downloads)
+
 2. Extract the package and copy all files to your webserver / webspace. Don't forget to copy the `.htaccess` file!
+
 3. Make sure that [mod_rewrite](https://go.invoiceplane.com/apachemodrewrite) is enabled on your webserver.
+
 4. Open `http://your-invoiceplane-domain.com/setup` and follow the instructions.
 
 ===
